@@ -1,7 +1,3 @@
----
-typora-root-url: prototipo
----
-
 # mentoria-everis
 mentoria-everis
 
@@ -9,6 +5,33 @@ mentoria-everis
 
 1. Jose Roberto de Moura
 2. Kauane Silva
+
+------
+
+## Tecnologias a serem estudados
+
+1. Arquitetura MVVM
+
+2. Retrofit
+
+3.  Coroutines
+
+4. LiveData ou databiding (opcional)
+
+5. Injeção de dependências entre os môdulos usando Koin
+
+6. RecyclerView
+
+7. ViewPager
+
+8. Testes unitários da camadas de ViewModel, Model com Repository usando: 
+
+   - Mockito
+   - JUnit 4
+   - Espresso
+   - Test rules e Test runner para chamada de teste de tela (Extra)
+
+   
 
 ------
 
@@ -34,16 +57,7 @@ Kauane Silva
 
 ## Cronograma de desenvolvimento
 
-1. Tela de login com usuario e senha e chamada a api rest
-
-2. Protótipo de exemplo 
-
-3. ```git
-   ![Screenshot](login_screen.png)
-   ```
-
-4. 
-
+1. Tela de login com usuario e senha e chamada a api rest 
 
 
 ------
