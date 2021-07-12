@@ -28,3 +28,24 @@ Kauane Silva
   git checkout kauneSilva
 ```
 
+## Cronograma de desenvolvimento
+
+1. Tela de login com chamada do login
+
+
+
+------
+
+## Api Rest
+
+```
+## 
+- UrlBase  -> https://60e8e489673e350017c2195d.mockapi.io/
+- Endpoint -> api/v1/users
+- ApiPath  -> https://60e8e489673e350017c2195d.mockapi.io/api/v1/users
+```
+
+
+
+------
+
