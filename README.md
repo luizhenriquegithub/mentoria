@@ -38,7 +38,11 @@ Kauane Silva
 
 2. Protótipo de exemplo 
 
-   ![](/login_screen.png)
+3. ```git
+   ![Screenshot](login_screen.png)
+   ```
+
+4. 
 
 
 
