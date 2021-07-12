@@ -1,3 +1,7 @@
+---
+typora-root-url: prototipo
+---
+
 # mentoria-everis
 mentoria-everis
 
@@ -30,7 +34,11 @@ Kauane Silva
 
 ## Cronograma de desenvolvimento
 
-1. Tela de login com chamada do login
+1. Tela de login com usuario e senha e chamada a api rest
+
+2. Protótipo de exemplo 
+
+   ![](/login_screen.png)
 
 
 
@@ -39,7 +47,6 @@ Kauane Silva
 ## Api Rest
 
 ```
-## 
 - UrlBase  -> https://60e8e489673e350017c2195d.mockapi.io/
 - Endpoint -> api/v1/users
 - ApiPath  -> https://60e8e489673e350017c2195d.mockapi.io/api/v1/users
